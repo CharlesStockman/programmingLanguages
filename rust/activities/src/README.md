@@ -1,4 +1,4 @@
-# Description of each Acivity
+# Description of each Activity
 
 |Activity|Description| Activity | Description|
 |--------|----------|-----------|------------|
